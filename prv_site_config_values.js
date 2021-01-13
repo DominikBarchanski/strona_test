@@ -1,0 +1,1 @@
+var siteConfig={owner:"1206828",na:"1610797899",c:"17",s:"stronatestowafav.prv.pl",adult:"0",script:"0",ssl:"-1",cat:"biznes_i_finanse",sub:"agrobiznes",cs:"4655"}

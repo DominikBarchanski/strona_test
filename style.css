@@ -1,0 +1,33 @@
+*
+{
+padding: 0;
+margin: 0;
+}
+p{
+  color: white;
+
+}
+#box
+{
+  width: 1004px;
+  margin: 0 auto;
+}
+#top_menu
+{
+  position: relative;
+  height: 20%;
+  width: 90%;
+
+}
+#content
+{
+  height: 70%;
+  width: 90%;
+
+
+}
+#footer
+{
+  width: 90%;
+
+}
